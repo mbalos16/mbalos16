@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently finishing the #100DaysOfCode in Python.
+
 <!--
 **mbalos16/mbalos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
