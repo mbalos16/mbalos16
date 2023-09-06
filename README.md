@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi and welcome! 
+  
+- 🤠 I am a curious UX designer, graphic designer, photographer, and retoucher who loves to explore new waves 🌊. 
+- 🔭 Quick update: I am currently finishing Angela Yu's #100DaysOfCode in Python on Udemy.
+- 📫 Get in touch: https://www.linkedin.com/in/mariabalos
 
-🔭 I’m currently finishing the #100DaysOfCode in Python.
 
-<!--
-**mbalos16/mbalos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/juliana-silva-hub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbalos16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalos16&layout=compact&langs_count=7&theme=dracula"/>
+ 
+  
+</div>
+<div style="display: inline_block"><br>
+  
+</div>
