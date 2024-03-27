@@ -11,7 +11,7 @@ Right now I am involved into:
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 - Working on my **career development**, please check [my LinkedIn](https://www.linkedin.com/in/mariabalos) for more details.
 
-## Skills
+## Skills 🌟
 
 Please check out the next sections to see these skills applied in projects.
 
@@ -38,7 +38,7 @@ Please check out the next sections to see these skills applied in projects.
   - **ML & stats**: Scikit-Learn, Statsmodels
   - **Data visualisation**: Matplotlib, Seaborn, Plotly
 
-## Projects
+## Projects 📜
 
 ### `Exploratory Data Analysis`
 
@@ -61,7 +61,7 @@ Please check out the next sections to see these skills applied in projects.
 - [Morse Code](https://github.com/mbalos16/python_100_days_of_code/tree/master/day_82): a command-line program where the dictionary loops, strings and functions in Python are applied. [Morse Converter DEMO](https://www.youtube.com/watch?v=YvHdGF5BKtY)
 - [MochaMaps](https://github.com/mbalos16/python_100_days_of_code/commit/478aa555df8d46696f5b7d91501aa563d455ad15): a website that displays coffee shops and their facilities from a database by using: SQLite, SQLAlchemy, Jinja2, REST API, Flask API and Bootstrap-Flask. [MockaMaps DEMO](https://www.youtube.com/watch?v=2NSE_zE_FBE)
 
-## Final Notes & Contact
+## Final Notes & Contact ☎️
 
 There are a lot more projects where I apply all this knowledge in my public repositories. Please have a deeper look to find more specific projects. Thank you for visiting my GitHub. Please share any feedback, suggestions, or tips that you believe could help me grow and improve!
 
