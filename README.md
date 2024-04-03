@@ -53,7 +53,7 @@ Please check out the next sections to see these skills applied in projects.
 
 #### Supervised
 
-- Datamecum Dataton - ongoing competition consiting of building a supervised model to predict a binary class. Please get in touch if you'd like a link to the repository.
+-[Datamecum Dataton](####Supervised) - ongoing competition consiting of building a supervised model to predict a binary class. **Please get in touch if you'd like a link to the repository**.
 
 ### `Web / App Development`
 
@@ -61,8 +61,13 @@ Please check out the next sections to see these skills applied in projects.
 - [Morse Code](https://github.com/mbalos16/python_100_days_of_code/tree/master/day_82): a command-line program where the dictionary loops, strings and functions in Python are applied. [Morse Converter DEMO](https://www.youtube.com/watch?v=YvHdGF5BKtY)
 - [MochaMaps](https://github.com/mbalos16/python_100_days_of_code/commit/478aa555df8d46696f5b7d91501aa563d455ad15): a website that displays coffee shops and their facilities from a database by using: SQLite, SQLAlchemy, Jinja2, REST API, Flask API and Bootstrap-Flask. [MockaMaps DEMO](https://www.youtube.com/watch?v=2NSE_zE_FBE)
 
+
+### `Automation`
+
+- [LinkedIn Toggler](###Automation): Using Selenium for Python to automate recurrent LinkedIn tasks. **Please get in touch if you'd like a link to the repository**.
+
 ## Final Notes & Contact ☎️
 
-There are a lot more projects where I apply all this knowledge in my public repositories. Please have a deeper look to find more specific projects. Thank you for visiting my GitHub. Please share any feedback, suggestions, or tips that you believe could help me grow and improve!
+Thank you for visiting my GitHub! Feel free to have a deeper look in my repositories to find more specific projects. **Please share any feedback, suggestions, or tips that you believe could help me grow and improve!**
 
-I am always happy for a coffee chit-chat so please drop me an email at [mariabalos16@gmail.com](mariabalos16@gmail.com) or send me a message through [my LinkedIn](https://www.linkedin.com/in/mariabalos).
+I am always happy for a coffee, a chit-chat or a discussion of any possible collaboration. Please drop me an email at [mariabalos16@gmail.com](mariabalos16@gmail.com) or send me a message through [my LinkedIn](https://www.linkedin.com/in/mariabalos) if you fancy any of those.
