@@ -64,7 +64,7 @@ Please check out the next sections to see these skills applied in projects.
 
 ### `Automation`
 
-- [LinkedIn Toggler](###Automation): Using Selenium for Python to automate recurrent LinkedIn tasks. **Please get in touch if you'd like a link to the repository**.
+- [LinkedIn Toggler](###Automation): Using Selenium for Python to automate recurrent LinkedIn tasks. Please have a look at the [LinkedIn Toggler repository](https://github.com/mbalos16/linkedin_toggler) if you want to know more about this project.
 
 ## Final Notes & Contact ☎️
 
