@@ -18,20 +18,20 @@ Please check out the next sections to see these skills applied in projects.
 - **Exploratory Data Analysis**: understanding the data, identifying missing values, approach duplicated values, handling ambiguous values,identifying outliers and anomalies, and correlation detection.
 - **Unsupervised Machine Learning**
 
-  - K-Means: [Weever Watermark project](#weever_watermark)
-  - DBSCAN
-  - PCA
-  - Outliers and anomaly detection
-  - SOM: Self-Organizing Maps
+  - **K-Means**: [Weever Watermark project](#weever_watermark)
+  - **DBSCAN**
+  - **PCA**
+  - **Outliers and anomaly detection**
+  - **SOM - Self-Organizing Maps**: [Datamecum Dataton] - Ongoing competition, please get in touch if you'd like a link to the repository.
 
 - **Supervised Machine Learning**
 
-  - Generalised Linear models
-  - Support Vector Machines
-  - K-Nearest neighbors
-  - Decision Stumps: [Kaggle notebook](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps)
-  - Decision Trees
-  - Random Forest: [Datathon project](#datathon)
+  - **Generalised Linear Models**
+  - **Support Vector Machines**
+  - **K-Nearest Neighbors**
+  - **Decision Stumps**: [Kaggle notebook](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps)
+  - **Decision Trees**
+  - **Random Forest**: [Datathon project](#datathon)
 
 - **Python libraries for data science**
   - **Data processing**: Pandas, NumPy
@@ -53,7 +53,7 @@ Please check out the next sections to see these skills applied in projects.
 
 #### Supervised
 
--[Datamecum Dataton](####Supervised) - ongoing competition consiting of building a supervised model to predict a binary class. **Please get in touch if you'd like a link to the repository**.
+- **Datamecum Dataton** - Ongoing competition consisting of building a supervised model to predict a binary class. Please get in touch if you'd like a link to the repository.
 
 ### `Web / App Development`
 
