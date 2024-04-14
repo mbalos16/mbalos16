@@ -18,11 +18,11 @@ Please check out the next sections to see these skills applied in projects.
 - **Exploratory Data Analysis**: understanding the data, identifying missing values, approach duplicated values, handling ambiguous values,identifying outliers and anomalies, and correlation detection.
 - **Unsupervised Machine Learning**
 
-  - **K-Means**: [Weever Watermark project](#weever_watermark)
+  - **K-Means**: [Weever Watermark project](https://github.com/mbalos16/python_100_days_of_code/blob/master/day_85/watermark.py)
   - **DBSCAN**
   - **PCA**
   - **Outliers and anomaly detection**
-  - **SOM - Self-Organizing Maps**: [Datamecum Dataton] - Ongoing competition, please get in touch if you'd like a link to the repository.
+  - **SOM - Self-Organizing Maps**
 
 - **Supervised Machine Learning**
 
@@ -31,7 +31,7 @@ Please check out the next sections to see these skills applied in projects.
   - **K-Nearest Neighbors**
   - **Decision Stumps**: [Kaggle notebook](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps)
   - **Decision Trees**
-  - **Random Forest**: [Datathon project](#datathon)
+  - **Random Forest**: Datamecum Dataton - Ongoing competition, please get in touch if you'd like a link to the repository.
 
 - **Python libraries for data science**
   - **Data processing**: Pandas, NumPy
