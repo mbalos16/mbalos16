@@ -4,12 +4,21 @@ Fancy seeing you here 😌 !
 
 I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. You can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
 
-Right now I am involved into:
-
-- **Datathon capstone project** - supervised model competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM - ending on May
+**Right now I am involved into:**
+- Joined the playground competition "Natural Language Processing with Disaster Tweets" on Kaggle.
 - Preparing to join the **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 - Working on my **career development**, please check [my LinkedIn](https://www.linkedin.com/in/mariabalos) for more details.
+
+
+**Last acchivements:**
+- **28th of May**: Completed the first part of the "Practical Deep Learning" course by fast.ai
+- **17th of May**: Completed the "Advanced Learning Algorithm Course" by Andrew Ng in Coursera
+- **9th of May**: Winner of the DATAMECUM Datathon 3rd promotion competition.
+
+**Last Medium post:**
+- [Machine learning applied to the design industry: K-Means for image palette generation](https://medium.com/@mariabalos16/machine-learning-applied-to-the-design-industry-k-means-for-image-palette-generation-dbd908b2312b)
+
 
 ## Skills 🌟
 
@@ -30,8 +39,10 @@ Please check out the next sections to see these skills applied in projects.
   - **Support Vector Machines**
   - **K-Nearest Neighbors**
   - **Decision Stumps**: [Kaggle notebook](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps)
-  - **Decision Trees**
-  - **Random Forest**: Datamecum Dataton - Ongoing competition, please get in touch if you'd like a link to the repository.
+  - **Decision Trees**: 
+  - **Random Forest**: Datamecum Datathon
+  - **XGBoost**: Datamecum Datathon
+  - **Ensemble models**: Winner of the Datamecum Datathon capston project competition with an ensemble of the Random Forest and XGBoost predictions.
 
 - **Python libraries for data science**
   - **Data processing**: Pandas, NumPy
@@ -44,6 +55,11 @@ Please check out the next sections to see these skills applied in projects.
 
 - [Space Mission Analysis](<https://github.com/mbalos16/python_100_days_of_code/blob/master/day_99/Space_Missions_Analysis_(start).ipynb>) is a data exploration and data visualisation project where I applied most of the data visualisation libraries.
 - [Mohs Hardness Exploratory Data Analysis](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps): Decision Stump (one layer decision tree) for a Kaggle competition, this placed me in position 598/1632 at the end of the competition. A [decision stump presentation](https://docs.google.com/presentation/d/1BtiAuhvKhAHsHSI_taXHQAGqqi_DwVnxTlF2grQtQQE/edit?usp=sharing) has been created to introduce Datamecum students to decision stumps.
+- [Datamecum Dataton](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM consisting of building a supervised model to predict a binary class. The exploratory data analisys consisted of:
+  - checking for missing values.
+  - handling duplicated values and ambiguous data.
+  - exploring the relation between missing values and the target variable.
+  - Self Organizing Maps and correlation matrix for correlation checks.
 
 ### `Machine Learning`
 
@@ -53,7 +69,7 @@ Please check out the next sections to see these skills applied in projects.
 
 #### Supervised
 
-- **Datamecum Dataton** - Ongoing competition consisting of building a supervised model to predict a binary class. Please get in touch if you'd like a link to the repository.
+- [Datamecum Dataton](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM consisting of building a supervised model to predict a binary class.
 
 ### `Web / App Development`
 
