@@ -5,8 +5,9 @@ Fancy seeing you here 😌 !
 I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. You can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
 
 **Right now I am involved into:**
-- Joined the playground competition "Natural Language Processing with Disaster Tweets" on Kaggle.
-- Preparing to join the **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
+- Completing daily coding problems in Leedcode, please check [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
+- **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
+- Finishing the NLP course on HuggingFace
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 - Working on my **career development**, please check [my LinkedIn](https://www.linkedin.com/in/mariabalos) for more details.
 
