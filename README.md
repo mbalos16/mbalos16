@@ -7,12 +7,13 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 **Right now I am involved into:**
 - Completing daily coding problems in Leedcode, please check [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
 - **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
-- Finishing the NLP course on HuggingFace
+- **Project Ryanair_timecapsule**: reverse-engineering the Ryanair API.
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 - Working on my **career development**, please check [my LinkedIn](https://www.linkedin.com/in/mariabalos) for more details.
 
 
 **Last acchivements:**
+- **17th of October**: Completed NLP HuggingFace course.
 - **28th of May**: Completed the first part of the "Practical Deep Learning" course by fast.ai
 - **17th of May**: Completed the "Advanced Learning Algorithm Course" by Andrew Ng in Coursera
 - **9th of May**: Winner of the DATAMECUM Datathon 3rd promotion competition.
@@ -43,7 +44,7 @@ Please check out the next sections to see these skills applied in projects.
   - **Decision Trees**: 
   - **Random Forest**: Datamecum Datathon
   - **XGBoost**: Datamecum Datathon
-  - **Ensemble models**: Winner of the Datamecum Datathon capston project competition with an ensemble of the Random Forest and XGBoost predictions.
+  - **Ensemble models**: Winner of the Datamecum Datathon capstone project competition with an ensemble of the Random Forest and XGBoost predictions, please check out the [presentation video](https://youtu.be/kcrQabXlEoU?si=mbVHTtHd7yuYJa0O).
 
 - **Python libraries for data science**
   - **Data processing**: Pandas, NumPy
@@ -56,11 +57,11 @@ Please check out the next sections to see these skills applied in projects.
 
 - [Space Mission Analysis](<https://github.com/mbalos16/python_100_days_of_code/blob/master/day_99/Space_Missions_Analysis_(start).ipynb>) is a data exploration and data visualisation project where I applied most of the data visualisation libraries.
 - [Mohs Hardness Exploratory Data Analysis](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps): Decision Stump (one layer decision tree) for a Kaggle competition, this placed me in position 598/1632 at the end of the competition. A [decision stump presentation](https://docs.google.com/presentation/d/1BtiAuhvKhAHsHSI_taXHQAGqqi_DwVnxTlF2grQtQQE/edit?usp=sharing) has been created to introduce Datamecum students to decision stumps.
-- [Datamecum Dataton](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM consisting of building a supervised model to predict a binary class. The exploratory data analisys consisted of:
+- [Datamecum Datathon](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM consisting of building a supervised model to predict a binary class. The exploratory data analysis consisted of:
   - checking for missing values.
   - handling duplicated values and ambiguous data.
   - exploring the relation between missing values and the target variable.
-  - Self Organizing Maps and correlation matrix for correlation checks.
+  - Self Organizing Maps and correlation matrix used for correlation checks.
 
 ### `Machine Learning`
 
