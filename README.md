@@ -7,12 +7,11 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 **Right now I am involved into:**
 - Completing daily coding problems in Leedcode, please check [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
 - **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
-- **Project Ryanair_timecapsule**: reverse-engineering the Ryanair API.
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
-- Working on my **career development**, please check [my LinkedIn](https://www.linkedin.com/in/mariabalos) for more details.
 
 
 **Last acchivements:**
+- **30th of October**: [Ryanair time-capsule](https://github.com/mbalos16/ryanair_timecapsule), reverse-engineering the Ryanair API to collect daily flight prices and train machine learning models to forecast price changes.
 - **17th of October**: Completed NLP HuggingFace course.
 - **28th of May**: Completed the first part of the "Practical Deep Learning" course by fast.ai
 - **17th of May**: Completed the "Advanced Learning Algorithm Course" by Andrew Ng in Coursera
