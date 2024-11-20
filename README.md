@@ -4,10 +4,12 @@ Fancy seeing you here 😌 !
 
 I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. You can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
 
-**Right now I am involved into:**
+**Right now I am involved in to:**
 - Completing daily coding problems in Leedcode, please check [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
 - **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
-- Training my first [CNN - Emotion detection in Images]([https://github.com/mbalos16/](https://github.com/mbalos16/emotion-detection)) model
+    - Convolutional Neural Networks (CNN): Applying class concepts by creating my first CNN architecture and training a model for [emotion detection](https://github.com/mbalos16/emotion-detection)
+    - Recurrent Neural Networks (RNN) 
+- Ryanair Radar Project [Updates soon!]
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 
 
