@@ -15,7 +15,7 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 - **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
     - Convolutional Neural Networks (CNN): Applying class concepts by creating my first CNN architecture and training a model for [emotion detection](https://github.com/mbalos16/emotion-detection)
     - Recurrent Neural Networks (RNN) 
-- Ryanair Radar Project [Updates soon!]
+- Working on [Ryanair Radar Project](https://github.com/mbalos16/ryanair-radar)
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 
 
