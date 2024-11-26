@@ -7,7 +7,7 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 **Github Stats**
 
 [![Maria Balos GitHub stats](https://github-readme-stats.vercel.app/api?username=mbalos16)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mbalos16&date_format=n%2Fj%5B%2FY%5D&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mbalos16&date_format=n%2Fj%5B%2FY%5D&card_width=300)](https://git.io/streak-stats)
 
 
 **Right now I am involved in to:**
