@@ -4,6 +4,12 @@ Fancy seeing you here 😌 !
 
 I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. You can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
 
+**Github Stats**
+
+[![Maria Balos GitHub stats](https://github-readme-stats.vercel.app/api?username=mbalos16)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mbalos16&date_format=n%2Fj%5B%2FY%5D&card_width=450)](https://git.io/streak-stats)
+
+
 **Right now I am involved in to:**
 - Completing daily coding problems in Leedcode, please check [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
 - **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
@@ -92,3 +98,5 @@ Please check out the next sections to see these skills applied in projects.
 Thank you for visiting my GitHub! Feel free to have a deeper look in my repositories to find more specific projects. **Please share any feedback, suggestions, or tips that you believe could help me grow and improve!**
 
 I am always happy for a coffee, a chit-chat or a discussion of any possible collaboration. Please drop me an email at [mariabalos16@gmail.com](mariabalos16@gmail.com) or send me a message through [my LinkedIn](https://www.linkedin.com/in/mariabalos) if you fancy any of those.
+
+
