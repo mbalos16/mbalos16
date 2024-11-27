@@ -4,6 +4,10 @@ Fancy seeing you here 😌 !
 
 I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. You can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
 
+**LeetCode Stats**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mariabalos16?theme=light&font=Roboto%20KuaiLe&ext=heatmap)
+
 **Github Stats**
 
 [![Maria Balos GitHub stats](https://github-readme-stats.vercel.app/api?username=mbalos16)](https://github.com/anuraghazra/github-readme-stats)
