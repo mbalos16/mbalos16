@@ -20,17 +20,17 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
     - Convolutional Neural Networks (CNN): Applying class concepts by creating my first CNN architecture and training a model for [emotion detection](https://github.com/mbalos16/emotion-detection)
     - Recurrent Neural Networks (RNN) 
 - Working on [Ryanair Radar Project](https://github.com/mbalos16/ryanair-radar)
-- Helping Santa Claus arrive in time for Christmas by solving daily problems in the AdventOfCode 2024.
 - Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
 
 
 **Last achievements:**
-- **1st of November**: I reached 200 solved Leetcode problems: Check it out in [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
-- **30th of October**: [Ryanair time-capsule](https://github.com/mbalos16/ryanair_timecapsule), reverse-engineering the Ryanair API to collect daily flight prices and train machine learning models to forecast price changes.
-- **17th of October**: Completed NLP HuggingFace course.
-- **28th of May**: Completed the first part of the "Practical Deep Learning" course by fast.ai
-- **17th of May**: Completed the "Advanced Learning Algorithm Course" by Andrew Ng in Coursera
-- **9th of May**: Winner of the DATAMECUM Datathon 3rd promotion competition.
+- **December 2024**: Helping Santa Claus arrive in time for Christmas by solving problems in the AdventOfCode 2024.Check it out in [Advent of code](https://github.com/mbalos16/advent-of-code-2024)
+- **1st of November 2024**: I reached 200 solved Leetcode problems: Check it out in [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
+- **30th of October 2024**: [Ryanair time-capsule](https://github.com/mbalos16/ryanair_timecapsule), reverse-engineering the Ryanair API to collect daily flight prices and train machine learning models to forecast price changes.
+- **17th of October 2024**: Completed NLP HuggingFace course.
+- **28th of May 2024**: Completed the first part of the "Practical Deep Learning" course by fast.ai
+- **17th of May 2024**: Completed the "Advanced Learning Algorithm Course" by Andrew Ng in Coursera
+- **9th of May 2024**: Winner of the DATAMECUM Datathon 3rd promotion competition.
 
 **Last Medium post:**
 - [Machine learning applied to the design industry: K-Means for image palette generation](https://medium.com/@mariabalos16/machine-learning-applied-to-the-design-industry-k-means-for-image-palette-generation-dbd908b2312b)
