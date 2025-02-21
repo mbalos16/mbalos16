@@ -14,17 +14,14 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 [![GitHub Streak](https://streak-stats.demolab.com?user=mbalos16&date_format=n%2Fj%5B%2FY%5D&card_width=300)](https://git.io/streak-stats)
 
 
-**Right now I am involved in to:**
-- Completing daily coding problems in Leedcode, please check [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
+**Right now I am involved into:**
+- **Working at Vocality.AI**: developing and deploying speech generative models for commercial applications ensuring they are efficient, scalable, and seamlessly integrated into real-world use cases. 
 - **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
-    - Convolutional Neural Networks (CNN): Applying class concepts by creating my first CNN architecture and training a model for [emotion detection](https://github.com/mbalos16/emotion-detection)
-    - Recurrent Neural Networks (RNN) 
 - Working on [Ryanair Radar Project](https://github.com/mbalos16/ryanair-radar)
-- Finishing the last 16/100 projects of the course **100 Days Of Code in Python** by Angela Yu on Udemy.
-
 
 **Last achievements:**
-- **December 2024**: Helping Santa Claus arrive in time for Christmas by solving problems in the AdventOfCode 2024.Check it out in [Advent of code](https://github.com/mbalos16/advent-of-code-2024)
+- **27th January 2025**: Started working at Vocality.AI
+- **December 2024**: Helping Santa Claus arrive in time for Christmas by solving problems in the AdventOfCode 2024. Check it out in [Advent of code](https://github.com/mbalos16/advent-of-code-2024)
 - **1st of November 2024**: I reached 200 solved Leetcode problems: Check it out in [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
 - **30th of October 2024**: [Ryanair time-capsule](https://github.com/mbalos16/ryanair_timecapsule), reverse-engineering the Ryanair API to collect daily flight prices and train machine learning models to forecast price changes.
 - **17th of October 2024**: Completed NLP HuggingFace course.
@@ -37,8 +34,7 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 
 
 ## Skills 🌟
-
-Please check out the next sections to see these skills applied in projects.
+Please check out the next sections to see how these skills are applied in projects.
 
 - **Exploratory Data Analysis**: understanding the data, identifying missing values, approach duplicated values, handling ambiguous values,identifying outliers and anomalies, and correlation detection.
 - **Unsupervised Machine Learning**
