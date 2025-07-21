@@ -2,7 +2,7 @@
 
 Fancy seeing you here 😌 !
 
-I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. You can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
+I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. Nowadays, I work for VocalityAI training TTS models, so you can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
 
 **LeetCode Stats**
 
@@ -14,12 +14,12 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 [![GitHub Streak](https://streak-stats.demolab.com?user=mbalos16&date_format=n%2Fj%5B%2FY%5D&card_width=300)](https://git.io/streak-stats)
 
 
-**Right now I am involved into:**
-- **Working at Vocality.AI**: developing and deploying speech generative models for commercial applications ensuring they are efficient, scalable, and seamlessly integrated into real-world use cases. 
-- **Master in Deep Learning and Generative AI** by DATAMECUM - October 2024 - April 2025
-- Working on [Ryanair Radar Project](https://github.com/mbalos16/ryanair-radar)
+**Right now I am involved in:**
+- **Working at Vocality.AI**: developing and deploying speech generative models for commercial applications, ensuring they are efficient, scalable, and seamlessly integrated into real-world use cases. 
+- Improving my code skills with Leetcode.
 
 **Last achievements:**
+- **16TH July 2025**: Presented Master's Dissertation for the Deep Learning and Generative AI Master's Degree at Datamecum.
 - **27th January 2025**: Started working at Vocality.AI
 - **December 2024**: Helping Santa Claus arrive in time for Christmas by solving problems in the AdventOfCode 2024. Check it out in [Advent of code](https://github.com/mbalos16/advent-of-code-2024)
 - **1st of November 2024**: I reached 200 solved Leetcode problems: Check it out in [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
@@ -36,14 +36,14 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 ## Skills 🌟
 Please check out the next sections to see how these skills are applied in projects.
 
-- **Exploratory Data Analysis**: understanding the data, identifying missing values, approach duplicated values, handling ambiguous values,identifying outliers and anomalies, and correlation detection.
+- **Exploratory Data Analysis**: understanding the data, identifying missing values, approaching duplicated values, handling ambiguous values, identifying outliers and anomalies, and correlation detection.
 - **Unsupervised Machine Learning**
 
   - **K-Means**: [Weever Watermark project](https://github.com/mbalos16/python_100_days_of_code/blob/master/day_85/watermark.py)
   - **DBSCAN**
   - **PCA**
   - **Outliers and anomaly detection**
-  - **SOM - Self-Organizing Maps**
+  - **SOM - Self-Organising Maps**
 
 - **Supervised Machine Learning**
 
@@ -67,11 +67,11 @@ Please check out the next sections to see how these skills are applied in projec
 
 - [Space Mission Analysis](<https://github.com/mbalos16/python_100_days_of_code/blob/master/day_99/Space_Missions_Analysis_(start).ipynb>) is a data exploration and data visualisation project where I applied most of the data visualisation libraries.
 - [Mohs Hardness Exploratory Data Analysis](https://www.kaggle.com/code/mbalos/the-power-of-decision-stumps): Decision Stump (one layer decision tree) for a Kaggle competition, this placed me in position 598/1632 at the end of the competition. A [decision stump presentation](https://docs.google.com/presentation/d/1BtiAuhvKhAHsHSI_taXHQAGqqi_DwVnxTlF2grQtQQE/edit?usp=sharing) has been created to introduce Datamecum students to decision stumps.
-- [Datamecum Datathon](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM consisting of building a supervised model to predict a binary class. The exploratory data analysis consisted of:
+- [Datamecum Datathon](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM, consisting of building a supervised model to predict a binary class. The exploratory data analysis consisted of:
   - checking for missing values.
   - handling duplicated values and ambiguous data.
   - exploring the relation between missing values and the target variable.
-  - Self Organizing Maps and correlation matrix used for correlation checks.
+  - self-organising maps and correlation matrix used for correlation checks.
 
 ### `Machine Learning`
 
@@ -81,7 +81,7 @@ Please check out the next sections to see how these skills are applied in projec
 
 #### Supervised
 
-- [Datamecum Dataton](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM consisting of building a supervised model to predict a binary class.
+- [Datamecum Dataton](https://docs.google.com/presentation/d/1EDDbKSY5zzrLBYdYQrRcz3SuSAGo0B7NHvDc3C-132A/edit?usp=sharing) - Capstone project competition between the third promotion students of the Intensive Program in Data Science by DATAMECUM, consisting of building a supervised model to predict a binary class.
 
 ### `Web / App Development`
 
