@@ -15,11 +15,11 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 
 
 **Right now I am involved in:**
-- **Working at Vocality.AI**: developing and deploying speech generative models for commercial applications, ensuring they are efficient, scalable, and seamlessly integrated into real-world use cases. 
-- Improving my code skills with Leetcode.
+- **Working at [Vocality.AI](https://vocality.ai/en/home/)**: developing and deploying speech generative models for commercial applications, ensuring they are efficient, scalable, and seamlessly integrated into real-world use cases. 
+- Improving my code skills with [Leetcode](https://leetcode.com/u/mariabalos16/).
 
 **Last achievements:**
-- **16TH July 2025**: Presented Master's Dissertation for the Deep Learning and Generative AI Master's Degree at Datamecum.
+- **16th July 2025**: Presented Master's Dissertation for the Deep Learning and Generative AI Master's Degree at Datamecum called [RAG-Driven Educational Assistant: Enhancing Learning through Contextual Q&A and Knowledge Testing](https://github.com/mbalos16/datamecum_tfm). Please review the main repository by following the link provided.
 - **27th January 2025**: Started working at Vocality.AI
 - **December 2024**: Helping Santa Claus arrive in time for Christmas by solving problems in the AdventOfCode 2024. Check it out in [Advent of code](https://github.com/mbalos16/advent-of-code-2024)
 - **1st of November 2024**: I reached 200 solved Leetcode problems: Check it out in [my Leetcode profile](https://leetcode.com/u/mariabalos16/)
