@@ -2,7 +2,7 @@
 
 Fancy seeing you here 😌 !
 
-I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. Nowadays, I work for VocalityAI training TTS models, so you can find me most of the time behind a screen or next to a coffee. Welcome to this small corner of my work!
+I am Maria Balos, a data scientist and user-centric designer based in Cambridge, UK. Nowadays, I work for VocalityAI, training TTS models, so you can find me most of the time behind a screen or next to a cup of coffee. In my free time, I enjoy solving problems on Leetcode or experimenting while working on personal projects. Please grab a coffee and feel welcome to this small corner of my work!
 
 **LeetCode Stats**
 
