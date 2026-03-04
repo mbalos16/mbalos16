@@ -7,7 +7,6 @@ I am Maria Balos, a data scientist and user-centric designer based in Cambridge,
 **LeetCode & Github Stats** 
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mariabalos16?theme=light&font=Roboto%20KuaiLe&ext=heatmap)
-![Maria Balos GitHub stats](https://github-readme-stats.vercel.app/api?username=mbalos16)](https://github.com/anuraghazra/github-readme-stats)
 
 **Right now I am involved in:**
 - Developing and deploying speech generative models for commercial applications, ensuring their efficiency, scalability, and seamless integration into real-world use cases. 
