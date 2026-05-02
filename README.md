@@ -10,6 +10,10 @@ Please grab a coffee and feel welcome to this small corner of my work!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mariabalos16?theme=light&font=Roboto%20KuaiLe&ext=heatmap)
 
+**Github Last 30 Days Graph**
+
+![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbalos16)
+
 **Right now I am working on:**
 - Training and deploying TTS models across multiple languages (en-GB, es-ES, eu-ES, sl-SI) for enterprise clients at [Vocality.ai](https://vocality.ai).
 - Replicating results from the [Manifold HyperConnections (mHC)](https://arxiv.org/abs/2512.24880) paper and exploring its applications to computer vision.
