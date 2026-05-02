@@ -14,9 +14,11 @@ Please grab a coffee and feel welcome to this small corner of my work!
 
 ![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbalos16)
 
-**Right now I am working on:**
+**Right now I am working on: (updated: 2026/05/02)**
 - Training and deploying TTS models across multiple languages (en-GB, es-ES, eu-ES, sl-SI) for enterprise clients at [Vocality.ai](https://vocality.ai).
 - Replicating results from the [Manifold HyperConnections (mHC)](https://arxiv.org/abs/2512.24880) paper and exploring its applications to computer vision.
+- Improving [Ryanair Time Capsule](https://github.com/mbalos16/ryanair_timecapsule).
+- Garmin Data Pipeline - [Exploratory Data Analysis of Garmin Biometrics Wearable Data](https://github.com/mbalos16/garmin_data_pipeline).
 - Sharpening my coding skills with [LeetCode](https://leetcode.com/u/mariabalos16/) (300+ problems solved).
 
 **Last achievements:**
